@@ -1,0 +1,10 @@
+{
+  "id": "com.zen.star",
+  "version": "1.0.0",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "loader.html",
+  "title": "Star",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
